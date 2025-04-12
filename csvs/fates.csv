@@ -1,0 +1,3 @@
+FateCode,FateName,Description,FateType,Complexity,Flagship,Art,Contents,cardnum
+DF03,Soothsayer,Study and exploit the ley lines on the borders of clusters to discover the dark truth behind the Reach.,A,2,No,,"@[PtP1]Build and control mana siphons on the ley lines.<br><br>@[PtP2]Run dangerous experiments using the mana siphons, scrapping cards but advancing you towards truth.<br><br>@[PtP3]Use your gained knowledge to scrap the reach itself.",00
+DF25,Leviathan Hunter,"They told me they were just myths, but I shall show them all!",C,3,No,,Vanquish the leviathans that have been a specter of reach since time immemorial. <fc=FF0000>You may abandon your flagship to replenish your fleet. Add leviathans to the board that any player can hunt for rewards.</fc>,00

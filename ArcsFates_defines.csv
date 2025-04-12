@@ -1,0 +1,23 @@
+Defines,Value
+objective,<img=images/icons/objective.png>
+player,<img=images/icons/player.png>
+grand_ambition,<img=images/icons/grand_ambition.png>
+summit,<img=images/icons/summit.png>
+ptp1,<img=images/icons/act_1_ptp.png>
+ptp2,<img=images/icons/act_2_ptp.png>
+ptp3,<img=images/icons/act_3_ptp.png>
+,
+,
+DefaultObjSet,images/backgrounds/objective_setup/objective_setup.png
+YesmanObjSet,images/backgrounds/objective_setup/objective_setup_yesman.png
+Anti-MineralistObjSet,images/backgrounds/objective_setup/objective_setup_anti-mineralist.png
+WitchObjSet,images/backgrounds/objective_setup/objective_setup_the_witch.png
+DefaultRes,images/backgrounds/resolution/resolution.png
+DefaultBooklet,images/backgrounds/booklet/booklet.png
+DefaultAbility,images/backgrounds/ability/ability.png
+Prelude,<fc=0x000000><b>Prelude:</b></fc><spc=2>
+Secure,<b>When secured:</b> 
+DefaultLore,images/card_art/SampleLore.png
+DefaultGuild,images/card_art/SampleGuild.png
+SummitIcon,images/icons/summit.png
+DefaultEdict,images/backgrounds/booklet/booklet_no_bars.png

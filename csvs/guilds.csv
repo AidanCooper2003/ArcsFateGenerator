@@ -1,0 +1,3 @@
+Count,FateCode,FateName,CardNum,Background,CardName,Keys,Art,Contents
+1,DF03,Soothsayer,07,@[psionicguild],Mana Pirates,@[2key],@[DefaultGuild],"<b>Skim (Tax):</b> Steal a psionic from a player who controls a mana siphon. If you do, they may choose to put a mana siphon they control into discard.<br>@[Prelude]You may discard this to steal a resource."
+1,DF03,Soothsayer,10,@[psionicguild],Seekers of the Dark,@[Protected],@[DefaultGuild],"When a crisis occurs, if possible you must scrap a card in the court where you have two or more agents on it that isn't Imperial Council. Then, scrap an agent.<br><b>If you aren't the Soothsayer,<spc=2> scrap this.</b>"

@@ -1,0 +1,4 @@
+Define,Value
+CFateWin,"<ac><b>At the end of a chapter, you win the game if you completed your objective and have at least 1 Power.</b></ac>"
+ObjTitleStart,<ac><b><i>
+ObjTitleEnd,</i></b></ac><ls=-5><img=images/icons/separation_bar.png;1;0;24></ls>

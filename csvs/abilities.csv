@@ -1,0 +1,2 @@
+Count,FateCode,FateName,CardNum,Background,CardName,Contents
+1,DF03,Soothsayer,09,@[DefaultAbility],Ley Line Meditation,"<b>Meditate (Influence):</b> You may either reroll a die on this card, or if you have more mana banks you control than dice on this card, roll a die from the supply and set it on this card.<br><b>For each die that is intended to be rolled:</b>You may choose to replace a roll with a die face, and you must if the die needs to be rolled due to supply limitations. Then, remove the die from this card."

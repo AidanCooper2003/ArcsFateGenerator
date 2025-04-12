@@ -1,0 +1,4 @@
+Count,FateCode,FateName,Act,CardNum,Background,Type,2PlayerClock,3PlayerClock,4PlayerClock,Contents
+1,DF03,Soothsayer,I,01,@[DefaultObjSet],RangeDown,24,20,16,"@[ObjTitleStart]Exploit the Ley Lines...@[ObjTitleEnd]Whenever you build a mana bank, <b>advance @[objective] 4.</b><br><br>@[ObjTitleStart]...To<spc=2>Learn Their Secrets.@[ObjTitleEnd]<b>Advance @[Objective] 2</b> whenever you use the bonus action from a mana bank while winning an ambition."
+1,DF03,Soothsayer,II,08,@[DefaultObjSet],Single,12,,,@[ObjTitleStart]Delve Deep Into Dark Secrets@[ObjTitleEnd]<b>Advance @[objective] 4</b> each time you scrap a card using Seekers of the Dark.
+1,DF03,Soothsayer,III,14,@[DefaultObjSet],Grand,,,,@[ObjTitleStart]Plunge the World Into Darkness@[ObjTitleEnd]<br><br>@[grand_ambition]You have more pieces on The Box than the current chapter times 4.<br><br>@[grand_ambition]You have more cards on The Box than the current chapter.
