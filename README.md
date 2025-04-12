@@ -3,7 +3,7 @@ This is for use with [CardMaker v.1.3.0.0](https://github.com/nhmkdev/cardmaker/
 This cmp file and provided csv files used in CardMaker will let you quickly prototype entire fates for [Arcs: The Blighted Reach](https://ledergames.com/products/arcs-the-blighted-reach-campaign-expansion)
 This uses files provided by Leder Games [here](https://ledergames.com/blogs/news/arcs-the-official-development-kit).
 
-You must install the fonts Neue Kabel (body text) and FM BolyarPro (title text). FM BolyarPro is a paid font, but OPTICopperplate is an acceptable alternative. (Although it will require you to change all missing fonts in CardMaker)
+You must install the fonts Neue Kabel (body text) and FM BolyarPro 900 (title text). FM BolyarPro is a paid font, but OPTICopperplate is an acceptable alternative. (Although it will require you to change all missing fonts in CardMaker)
 
 In order to use, after filling in the csv files with your card data, go to file, export project to images, check "override layout file name formats" and put the following into file name format: "@[fatecode]_@[cardnum]_#L"
 
