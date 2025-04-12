@@ -13,5 +13,4 @@ Some notes:
 - Booklets cover cards that go in the rules booklet that aren't edicts (laws, summit, etc.)
 - Types of Objective Cards: Single (Consistent objective) RangeUp/RangeDown (Different for each player count) Grand (Grand Ambitions)
 - Misc cards are not implemented (e.g. Doctrine, Economy, Monopoly, etc.)
-- Since I originally made this for personal use, the files inconsistently use backgrounds with bleed and edited without bleed. 
-- 
+- Since I originally made this for personal use, the files inconsistently use backgrounds with bleed and edited without bleed.
